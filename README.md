@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Drakowarrior/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
