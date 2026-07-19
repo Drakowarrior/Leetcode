@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Drakowarrior/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drakowarrior/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Drakowarrior/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Drakowarrior/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Drakowarrior/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Drakowarrior/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
