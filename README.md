@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Drakowarrior/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Drakowarrior/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Drakowarrior/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Drakowarrior/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
