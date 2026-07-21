@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Drakowarrior/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Drakowarrior/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -175,8 +176,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Drakowarrior/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Drakowarrior/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
