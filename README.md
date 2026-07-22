@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Drakowarrior/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Drakowarrior/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Drakowarrior/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Drakowarrior/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
