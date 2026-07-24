@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Drakowarrior/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Drakowarrior/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drakowarrior/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0057-insert-interval](https://github.com/Drakowarrior/Leetcode/tree/master/0057-insert-interval) |
 | [1260-shift-2d-grid](https://github.com/Drakowarrior/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Drakowarrior/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Drakowarrior/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
