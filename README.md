@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Drakowarrior/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/Drakowarrior/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Drakowarrior/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Drakowarrior/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Drakowarrior/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Drakowarrior/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Drakowarrior/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Drakowarrior/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Drakowarrior/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Drakowarrior/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Drakowarrior/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Drakowarrior/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Drakowarrior/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
