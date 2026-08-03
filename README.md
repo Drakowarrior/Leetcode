@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Drakowarrior/Leetcode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Drakowarrior/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Drakowarrior/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Drakowarrior/Leetcode/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
