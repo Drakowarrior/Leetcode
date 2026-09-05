@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Drakowarrior/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Drakowarrior/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Drakowarrior/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Drakowarrior/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Drakowarrior/Leetcode/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Drakowarrior/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Drakowarrior/Leetcode/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Drakowarrior/Leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Drakowarrior/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Drakowarrior/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Drakowarrior/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Drakowarrior/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Drakowarrior/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Drakowarrior/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Drakowarrior/Leetcode/tree/master/0072-edit-distance) |
