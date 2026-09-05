@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Drakowarrior/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Drakowarrior/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0445-add-two-numbers-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Drakowarrior/Leetcode/tree/master/0877-stone-game) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Drakowarrior/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Drakowarrior/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Drakowarrior/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Drakowarrior/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Drakowarrior/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Drakowarrior/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Drakowarrior/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
