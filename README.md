@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Drakowarrior/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Drakowarrior/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Drakowarrior/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Drakowarrior/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Drakowarrior/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Drakowarrior/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Drakowarrior/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Drakowarrior/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
+| [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Drakowarrior/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Drakowarrior/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Drakowarrior/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Drakowarrior/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Drakowarrior/Leetcode/tree/master/0097-interleaving-string) |
+| [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Drakowarrior/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Drakowarrior/Leetcode/tree/master/1927-sum-game) |
