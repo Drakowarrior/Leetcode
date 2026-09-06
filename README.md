@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Drakowarrior/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Drakowarrior/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Drakowarrior/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Drakowarrior/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Drakowarrior/Leetcode/tree/master/0877-stone-game) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Drakowarrior/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Drakowarrior/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Drakowarrior/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Drakowarrior/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Drakowarrior/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Drakowarrior/Leetcode/tree/master/0657-robot-return-to-origin) |
