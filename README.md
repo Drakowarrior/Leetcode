@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Drakowarrior/Leetcode/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/Drakowarrior/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Drakowarrior/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Drakowarrior/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Drakowarrior/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Drakowarrior/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Drakowarrior/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/Drakowarrior/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Drakowarrior/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Drakowarrior/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Drakowarrior/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
