@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/Drakowarrior/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Drakowarrior/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Drakowarrior/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Drakowarrior/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Drakowarrior/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Drakowarrior/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Drakowarrior/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Drakowarrior/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Drakowarrior/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Database
 |  |
 | ------- |
