@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Drakowarrior/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Drakowarrior/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Drakowarrior/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drakowarrior/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Drakowarrior/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Drakowarrior/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Drakowarrior/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Drakowarrior/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Drakowarrior/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Drakowarrior/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Drakowarrior/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drakowarrior/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Drakowarrior/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Drakowarrior/Leetcode/tree/master/1927-sum-game) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Drakowarrior/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Drakowarrior/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Drakowarrior/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [1096-brace-expansion-ii](https://github.com/Drakowarrior/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Drakowarrior/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search Tree
 |  |
