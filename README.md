@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Drakowarrior/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Drakowarrior/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakowarrior/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Drakowarrior/Leetcode/tree/master/0682-baseball-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Drakowarrior/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Drakowarrior/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0445-add-two-numbers-ii](https://github.com/Drakowarrior/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Drakowarrior/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Drakowarrior/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Drakowarrior/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Drakowarrior/Leetcode/tree/master/0836-rectangle-overlap) |
